@@ -5,9 +5,8 @@
 - 📫 How to reach me ...
 
 # …or create a new repository on the command line
-- echo "# empty" >> README.md
 - git init
-- git add README.md
+- git add .
 - git commit -m "first commit"
 - git branch -M main
 - git remote add origin https://github.com/Quyet2k2/empty.git
